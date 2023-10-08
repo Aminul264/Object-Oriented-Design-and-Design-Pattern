@@ -42,4 +42,7 @@ BankService class will tell the client what type of actions it will
 allow the client to call upon and then it will delegate that action
 to the appropriate Account object.
 
+<h3>Output</h3>
+<img src="ouput.png" height="400px" width="400px" alt"no picture">
+
 </pre>
