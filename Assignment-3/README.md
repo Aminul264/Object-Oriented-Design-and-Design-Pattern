@@ -43,6 +43,6 @@ allow the client to call upon and then it will delegate that action
 to the appropriate Account object.
 
 <h3>Output</h3>
-<img src="ouput.png" height="400px" width="400px" alt"no picture">
+<img src="output.png" height="400px" width="400px" alt"no picture">
 
 </pre>
