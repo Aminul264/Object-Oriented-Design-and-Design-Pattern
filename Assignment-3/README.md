@@ -11,7 +11,7 @@
 4. Use the façade class to access the subsystem(Customer Class)</pre>
 <pre>
 
-<h3>Step 1: Design the Interface</h3>
+<h3>Step 1: Design the Interface 'IAccount'</h3>
 First, create an interface that will be implemented by the
 different account classes(Saving,Chequing and Investmnet), but will not be known to the
 Customer class.
