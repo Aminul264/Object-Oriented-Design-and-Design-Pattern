@@ -3,30 +3,9 @@
 This report describes a simple technical report for a proposed ATM machine. The report includes a UML sequence diagram and an operating process for the ATM machine.
 
 <h3>UML Sequence Diagram</h3>
-
 The following UML sequence diagram shows the operating process of the proposed ATM machine:
 
-[Customer]
-Inserts card
-Enters PIN
-Selects transaction
-Enters amount
-Confirms transaction
-Takes cash
-Takes card
-
-[ATM]
-Receives card
-Verifies card
-Prompts for PIN
-Verifies PIN
-Displays transaction options
-Prompts for amount
-Confirms transaction
-Dispenses cash
-Returns card
 <h3>Operating Process</h3>
-
 The operating process of the proposed ATM machine is as follows:
 
 The customer inserts their ATM card into the machine.
@@ -38,4 +17,4 @@ The ATM confirms the transaction and dispenses the cash (if applicable).
 The ATM returns the card to the customer.
 <h3>Conclusion</h3>
 
-The proposed ATM machine is a simple and efficient way for customers to withdraw cash, check their account balance, and perform other basic banking transactions. The UML sequence diagram and operating process described in this report provide a clear and concise overview of how the ATM machine works.
+The proposed ATM machine is a simple and efficient way for customers to withdraw cash.The UML sequence diagram and operating process described in this report provide a clear and concise overview of how the ATM machine works.
