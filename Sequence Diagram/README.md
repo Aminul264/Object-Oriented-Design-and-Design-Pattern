@@ -4,6 +4,7 @@ This report describes a simple technical report for a proposed ATM machine. The 
 
 <h3>UML Sequence Diagram</h3>
 The following UML sequence diagram shows the operating process of the proposed ATM machine:
+<img src="atm.png">
 
 <h3>Operating Process</h3>
 The operating process of the proposed ATM machine is as follows:
