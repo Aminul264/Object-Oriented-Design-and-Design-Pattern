@@ -1,5 +1,5 @@
 <h1>A UML Sequence Diagram for ATM Machine</h1>
-<h3></h3>Introduction</h3>
+<h3>Introduction</h3>
 This report describes a simple technical report for a proposed ATM machine. The report includes a UML sequence diagram and an operating process for the ATM machine.
 
 <h3>UML Sequence Diagram</h3>
