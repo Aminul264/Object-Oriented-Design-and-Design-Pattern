@@ -1,0 +1,1 @@
+<h1>A Java program to demonstrate the implementation of a decorator pattern for a web page, which might display complex behavior, such as only allowing access to authorized users, or splitting search results across multiple pages</h1>
